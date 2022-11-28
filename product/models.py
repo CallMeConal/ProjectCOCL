@@ -2,7 +2,6 @@ from distutils.command.upload import upload
 from email.policy import default
 from operator import mod
 from statistics import mode
-from turtle import title
 from unicodedata import category
 from django.db import models
 from django.urls import reverse
