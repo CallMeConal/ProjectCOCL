@@ -1,4 +1,3 @@
-from msilib.schema import CustomAction
 from django.contrib import admin
 
 from user.models import CustomerUser
